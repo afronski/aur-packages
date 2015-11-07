@@ -1,5 +1,5 @@
 # aur-packages
 
-My *AUR* packages for ArchLinux:
+*AUR* packages (*ArchLinux User Repository*) maintained by me:
 
 - `nomad-bin`
